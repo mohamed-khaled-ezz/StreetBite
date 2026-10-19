@@ -1,0 +1,172 @@
+{
+  "@@locale": "en",
+  "appName": "StreetBite",
+  "welcomeTitle": "Food and groceries delivered to you",
+  "welcomeSubtitle": "Sign in or create an account to get started",
+  "continueLabel": "Continue",
+  "login": "Log in",
+  "signUp": "Sign up",
+  "createAccount": "Create account",
+  "fullName": "Full name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "noAccountPrompt": "Don't have an account?",
+  "haveAccountPrompt": "Already have an account?",
+  "signOut": "Sign out",
+  "nameRequired": "Please enter your full name",
+  "nameCapital": "Name must start with a capital letter",
+  "emailInvalid": "Enter a valid email address",
+  "passwordShort": "Password must be at least 6 characters",
+  "passwordMismatch": "Passwords do not match",
+  "fieldRequired": "This field is required",
+  "cardInvalid": "Enter a valid 16-digit card number",
+  "errorNetwork": "No internet connection. Please try again.",
+  "errorServer": "Something went wrong on our side. Please try again later.",
+  "errorInvalidCredentials": "Incorrect email or password.",
+  "errorEmailInUse": "This email is already registered.",
+  "errorWeakPassword": "This password is too weak.",
+  "errorTooManyRequests": "Too many attempts. Please wait and try again.",
+  "errorPayment": "Payment failed. Please check your card details.",
+  "errorUnknown": "Something went wrong. Please try again.",
+  "retry": "Retry",
+  "home": "Home",
+  "browse": "Browse",
+  "orders": "Orders",
+  "profile": "Profile",
+  "search": "Search",
+  "searchHint": "Search meals",
+  "categories": "Categories",
+  "noResults": "No meals found",
+  "featured": "Featured",
+  "hotOffers": "Hot offers",
+  "recommended": "Recommended",
+  "addToCart": "Add to cart",
+  "addedToCart": "{name} added to cart",
+  "@addedToCart": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "addAnother": "Add another ({count} in cart)",
+  "@addAnother": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "discountBadge": "{percent}% off",
+  "@discountBadge": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "priceLabel": "{amount} EGP",
+  "@priceLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "category": "Category",
+  "origin": "Origin",
+  "instructions": "Instructions",
+  "favourites": "Favourites",
+  "favouriteAdded": "Saved to favourites",
+  "favouriteRemoved": "Removed from favourites",
+  "noFavourites": "No favourites yet",
+  "order": "Order",
+  "delivery": "Delivery",
+  "pickup": "Pickup",
+  "emptyCart": "Your cart is empty",
+  "cartBecameEmpty": "Your cart is now empty",
+  "remove": "Remove",
+  "subtotal": "Subtotal",
+  "deliveryFee": "Delivery fee",
+  "serviceFee": "Fees & taxes",
+  "total": "Total",
+  "checkout": "Checkout",
+  "deliveryTime": "Delivery time",
+  "express": "Express",
+  "standard": "Standard",
+  "minutesRange": "{range} min",
+  "@minutesRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "deliveryAddress": "Delivery address",
+  "addAddress": "Add delivery address",
+  "address": "Address",
+  "apartment": "Apartment",
+  "comment": "Comment",
+  "save": "Save",
+  "paymentMethod": "Payment method",
+  "cash": "Cash",
+  "card": "Card",
+  "addCard": "Add card",
+  "cardNumber": "Card number",
+  "cardName": "Name on card",
+  "expiry": "Exp",
+  "cvv": "CVV",
+  "zip": "Zip",
+  "defaultPaymentMethod": "Default payment method",
+  "placeOrder": "Place order",
+  "orderPlaced": "Order placed successfully",
+  "ordersEmpty": "No orders yet",
+  "pastOrders": "Past",
+  "orderHistory": "Order history",
+  "orderNumber": "Order #{id}",
+  "@orderNumber": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "itemsCount": "{count} items",
+  "@itemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "arrivesIn": "Arrives in {range} min",
+  "@arrivesIn": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "preparingOrder": "Preparing your order",
+  "stepReceived": "Order received",
+  "stepCooking": "Cooking your order",
+  "stepCourier": "Looking for courier",
+  "stepDelivered": "Order delivered",
+  "deviceDetails": "Device details",
+  "deviceBrand": "Brand",
+  "deviceModel": "Model",
+  "deviceOs": "OS version",
+  "changePhoto": "Change photo",
+  "photoUpdated": "Profile photo updated",
+  "settings": "Settings",
+  "language": "Language",
+  "english": "English",
+  "arabic": "العربية",
+  "darkMode": "Dark mode",
+  "contactUs": "Contact us",
+  "helpCenter": "Help center",
+  "contactInfo": "Email us at support@streetbite.app",
+  "helpInfo": "Browse meals, add them to your cart, then check out from the cart screen.",
+  "close": "Close"
+}

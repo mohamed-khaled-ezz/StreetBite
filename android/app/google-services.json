@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432495730551",
+    "project_id": "streetbite-capstone",
+    "storage_bucket": "streetbite-capstone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432495730551:android:ba457ec648eb48b2cc4b72",
+        "android_client_info": {
+          "package_name": "com.example.streetbite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmmIwqhQP0N5QkLc942hdXvIZ5WUc6OFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
